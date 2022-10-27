@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
         "SlackUsername": "Neilphillip",
         "backend": true,
         "age": 22,
-        "bio": "My name's Lebel HOUNKANRIN ....."
+        "bio": "My name's Lebel HOUNKANRIN. I'm Tech enthusiast, i'm junior software engineer. I'm a kind of adventurer"
     })
 })
 
